@@ -9,6 +9,16 @@ _ReSharper*
 *.sln
 .vs/
 Win32
+
+.vs/
+bin/
+bin-int/
+
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
 x64
 Debug
 Release
